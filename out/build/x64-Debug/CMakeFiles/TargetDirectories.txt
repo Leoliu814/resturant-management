@@ -1,0 +1,8 @@
+E:/bserv-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/bserv-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/bserv-main/out/build/x64-Debug/bserv/CMakeFiles/bserv.dir
+E:/bserv-main/out/build/x64-Debug/bserv/CMakeFiles/edit_cache.dir
+E:/bserv-main/out/build/x64-Debug/bserv/CMakeFiles/rebuild_cache.dir
+E:/bserv-main/out/build/x64-Debug/WebApp/CMakeFiles/WebApp.dir
+E:/bserv-main/out/build/x64-Debug/WebApp/CMakeFiles/edit_cache.dir
+E:/bserv-main/out/build/x64-Debug/WebApp/CMakeFiles/rebuild_cache.dir
